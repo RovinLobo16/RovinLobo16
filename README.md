@@ -17,19 +17,17 @@ Hi there 👋 I'm Rovin Lobo!<br>An MCA student at Presidency University, Bangal
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RovinLobo16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h1 align="center">🔝 Top Repositories</h1>
+# 🔝 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/RovinLobo16/MyPortfolio">
-    <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RovinLobo16&repo=MyPortfolio&theme=tokyonight" 
-    />
-  </a>
+## 🌐 My Portfolio
 
-  <a href="https://github.com/RovinLobo16/nassau-candy-shipping-analysis">
-    <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RovinLobo16&repo=nassau-candy-shipping-analysis&theme=tokyonight" 
-    />
-  </a>
-</p>
+[![Portfolio Repo](https://img.shields.io/badge/GitHub-MyPortfolio-181717?style=for-the-badge&logo=github)](https://github.com/RovinLobo16/MyPortfolio)
+
+---
+
+## 📊 Nassau Candy Shipping Analysis
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/RovinLobo16/nassau-candy-shipping-analysis)
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://jwtw8j5iblsn483lkxi8jz.streamlit.app/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
