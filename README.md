@@ -17,12 +17,13 @@ Hi there 👋 I'm Rovin Lobo!<br>An MCA student at Presidency University, Bangal
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RovinLobo16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=RovinLobo16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/RovinLobo16/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=Portfolio&theme=dark" />
+</a>
 
----
-
-![](https://visitcount.itsvg.in/api?id=RovinLobo16&icon=0&color=0)
-
+<a href="https://github.com/RovinLobo16/ProjectName">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=ProjectName&theme=dark" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
