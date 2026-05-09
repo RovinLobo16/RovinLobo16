@@ -19,11 +19,13 @@ Hi there 👋 I'm Rovin Lobo!<br>An MCA student at Presidency University, Bangal
 
 ## 🔝 Top Repositories
 
-<a href="https://github.com/RovinLobo16/MyPortfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=Portfolio&theme=dark" />
-</a>
+<p align="center">
+  <a href="https://github.com/RovinLobo16/MyPortfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=MyPortfolio&theme=tokyonight" />
+  </a>
 
-<a href="https://github.com/RovinLobo16/nassau-candy-shipping-analysis">
-  <img src="https://jwtw8j5iblsn483lkxi8jz.streamlit.app/" />
-</a>
+  <a href="https://github.com/RovinLobo16/nassau-candy-shipping-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=nassau-candy-shipping-analysis&theme=tokyonight" />
+  </a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
