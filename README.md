@@ -21,7 +21,9 @@ Hi there 👋 I'm Rovin Lobo!<br>An MCA student at Presidency University, Bangal
 
 ## 🌐 My Portfolio
 
-[![Portfolio Repo](https://img.shields.io/badge/GitHub-MyPortfolio-181717?style=for-the-badge&logo=github)](https://github.com/RovinLobo16/MyPortfolio)
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-blond-tau-56.vercel.app/)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-MyPortfolio-181717?style=for-the-badge&logo=github)](https://github.com/RovinLobo16/MyPortfolio)
 
 ---
 
