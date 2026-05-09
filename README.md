@@ -17,15 +17,19 @@ Hi there 👋 I'm Rovin Lobo!<br>An MCA student at Presidency University, Bangal
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RovinLobo16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔝 Top Repositories
+<h1 align="center">🔝 Top Repositories</h1>
 
 <p align="center">
   <a href="https://github.com/RovinLobo16/MyPortfolio">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=MyPortfolio&theme=tokyonight)](https://github.com/RovinLobo16/MyPortfolio)
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=MyPortfolio&theme=tokyonight&hide_border=true" 
+    />
   </a>
 
   <a href="https://github.com/RovinLobo16/nassau-candy-shipping-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=nassau-candy-shipping-analysis&theme=tokyonight" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=nassau-candy-shipping-analysis&theme=tokyonight&hide_border=true" 
+    />
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
