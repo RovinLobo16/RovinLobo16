@@ -22,13 +22,13 @@ Hi there 👋 I'm Rovin Lobo!<br>An MCA student at Presidency University, Bangal
 <p align="center">
   <a href="https://github.com/RovinLobo16/MyPortfolio">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=MyPortfolio&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RovinLobo16&repo=MyPortfolio&theme=tokyonight" 
     />
   </a>
 
   <a href="https://github.com/RovinLobo16/nassau-candy-shipping-analysis">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=RovinLobo16&repo=nassau-candy-shipping-analysis&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RovinLobo16&repo=nassau-candy-shipping-analysis&theme=tokyonight" 
     />
   </a>
 </p>
